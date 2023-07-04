@@ -1,7 +1,19 @@
 header {
     background-color: darkgreen; color:khaki; text-align:center
 }
+.Title {
+    color: coral;
+}
+.Advertisement {
+    color: cornflowerblue; font-size: 25px;
+}
 
 main {
-    background-color: lightgrey;
+    background-color: lightgrey; 
+    padding: 1em;
+}
+body {
+    margin: 0;
+    background-image: url("/Users/lucas/Prime/Dev/Tier1/4Week/assignment-unit-5.2/assignment/record.png"); 
+    background-repeat: repeat;
 }
